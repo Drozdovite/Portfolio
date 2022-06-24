@@ -1,4 +1,4 @@
 # Portfolio
 Portfolio of various works I've undertaken outside of my job
-Other Links of completed works:
-Yesplane project in Eleveons LLC.: https://elevons.design/yesplane
+/nOther Links of completed works:
+/nYesplane project in Eleveons LLC.: https://elevons.design/yesplane
