@@ -1,5 +1,5 @@
 # Portfolio
-Portfolio of various works I've undertaken outside of my job
+Portfolio of various works I've undertaken
 
 
 Other Links of completed works:
