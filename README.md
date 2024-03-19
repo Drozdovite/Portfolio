@@ -5,7 +5,9 @@ Portfolio of various works I've undertaken
 Other Links of completed works:
 
 
-Yesplane project demo for Elevons LLC.: https://elevons.design/yesplane
+Exosky project demo for Elevons LLC.: https://elevons.design/yesplane
+
+https://store.steampowered.com/app/2795160/Exosky/
 
 
 
